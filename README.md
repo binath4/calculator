@@ -15,3 +15,6 @@ Open `index.html` in your browser.
 
 ## License
 MIT
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-JavaScript-yellow)
